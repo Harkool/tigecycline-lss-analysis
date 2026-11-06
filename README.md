@@ -1,4 +1,4 @@
-# Analysis code — machine-learning prediction of tigecycline exposure with limited sampling strategies
+# Machine-learning prediction of tigecycline exposure with limited sampling strategies
 
 Code for:
 
