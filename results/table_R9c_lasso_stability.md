@@ -1,0 +1,20 @@
+| Candidate covariate | Selected in bootstrap LASSO, % | In the published 7-covariate set |
+| --- | --- | --- |
+| SOFA | 98 | yes |
+| PT | 96 | yes |
+| CrCl | 85 | yes |
+| ALB | 82 |  |
+| GGT | 77 |  |
+| DBIL | 71 |  |
+| APACHE | 70 |  |
+| BMI | 68 | yes |
+| TBIL | 68 | yes |
+| Age | 63 | yes |
+| ALP | 62 |  |
+| BUN | 53 |  |
+| ALT | 41 |  |
+| AST | 40 |  |
+| TP | 38 |  |
+| Sex | 34 |  |
+| SCr | 34 | yes |
+| IBIL | 25 |  |

@@ -1,0 +1,9 @@
+{
+ "n": 98,
+ "repeats": 10,
+ "folds": 5,
+ "data": "patients.csv",
+ "main_seconds": 523.2879168987274,
+ "decoupled_n": 90,
+ "decoupled_seconds": 119.75526118278503
+}

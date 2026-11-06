@@ -1,0 +1,6 @@
+| Candidate predictor parameters (P) | Anticipated adjusted R2 | (i) shrinkage ≥ 0.90 | (ii) optimism in R2 ≤ 0.05 | (iii) residual variance precision | (iv) mean outcome precision | Minimum n |
+| --- | --- | --- | --- | --- | --- | --- |
+| 8 | 0.8 | 32 | 33 | 242 | 29 | 242 |
+| 8 | 0.6 | 56 | 65 | 242 | 55 | 242 |
+| 19 | 0.8 | 93 | 77 | 253 | 32 | 253 |
+| 19 | 0.6 | 164 | 153 | 253 | 55 | 253 |

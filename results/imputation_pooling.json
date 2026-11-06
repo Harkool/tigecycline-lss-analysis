@@ -1,0 +1,37 @@
+{
+ "C0": {
+  "n_imputed_patients": 0,
+  "R2_avg": 0.8648404502777834,
+  "R2_rubin": 0.8648404502777834,
+  "between_sd": 0.0,
+  "width_change_pct": 0.0
+ },
+ "C0+C0.5": {
+  "n_imputed_patients": 6,
+  "R2_avg": 0.8744901956267943,
+  "R2_rubin": 0.8732870991583397,
+  "between_sd": 0.002214845563749841,
+  "width_change_pct": 0.3134729663294866
+ },
+ "C0+C6": {
+  "n_imputed_patients": 5,
+  "R2_avg": 0.9643386765995803,
+  "R2_rubin": 0.9607764435066984,
+  "between_sd": 0.0027587255533156317,
+  "width_change_pct": 2.284421728186281
+ },
+ "C0.5+C6": {
+  "n_imputed_patients": 11,
+  "R2_avg": 0.9428528136909019,
+  "R2_rubin": 0.9343339359038492,
+  "between_sd": 0.006636348424187627,
+  "width_change_pct": 10.507892381577722
+ },
+ "C0+C0.5+C6": {
+  "n_imputed_patients": 11,
+  "R2_avg": 0.9734097757998306,
+  "R2_rubin": 0.9689529894036817,
+  "between_sd": 0.0029694648115556896,
+  "width_change_pct": 4.878133564360332
+ }
+}
